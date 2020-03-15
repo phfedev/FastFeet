@@ -7,6 +7,7 @@ Backend of a fictitious Shipping Company made with Node.js
 - Run yarn or npm command to download the packages
 - Config the database configuration file
 - Run the [sequelize](https://sequelize.org/master/manual/migrations.html) commands to generete the tables and seeds.
+- `$yarn dev` or `$npm run dev` to start the server
 
 ### Routes:
 
